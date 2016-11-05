@@ -1,0 +1,8 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+ImageBench	get_gif_moving_stats		20000	1773341
+ImageBench	get_gif_still_stats		50000	2543697
+ImageBench	get_jpeg_large_stats		1000	2403527
+ImageBench	get_jpeg_normal_stats		5000	1850674
+ImageBench	get_png_large_stats		5000	1794387
+ImageBench	get_png_normal_stats		20000	1555736
